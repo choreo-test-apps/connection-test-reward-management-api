@@ -35,8 +35,8 @@ spec:
     # +optional Defines the service references from the internal API marketplace.
     serviceReferences:
       # +required Name of the service reference
-    - name: choreo:///hasithahiranya/bqpx/eukiqs/5c69c/v1.0/PUBLIC
-      connectionConfig: 01ee98d6-67fb-126e-adf0-d1bb8adb8d30
+    - name: choreo:///hasithahiranya/rexf/kvvhee/5c69c/v1.0/PUBLIC
+      connectionConfig: 01ee98d9-726a-1ef8-a037-21a8f3035ed2
       env:
       - from: ServiceURL
         to: LOYALTY_API_URL
