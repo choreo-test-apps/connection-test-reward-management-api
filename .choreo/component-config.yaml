@@ -35,8 +35,8 @@ spec:
     # +optional Defines the service references from the internal API marketplace.
     serviceReferences:
       # +required Name of the service reference
-    - name: choreo:///hasithahiranya/wezo/eaampp/5c69c/v1.0/PUBLIC
-      connectionConfig: 01ee9fef-50ff-1b70-a096-fd85aa8a8b6e
+    - name: choreo:///hasithahiranya/mmba/hhscos/5c69c/v1.0/PUBLIC
+      connectionConfig: 01ee9ff1-8efd-1da8-8df5-4675ccafa740
       env:
       - from: ServiceURL
         to: LOYALTY_API_URL
